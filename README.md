@@ -8,3 +8,5 @@ Ce stage va duré 4 mois, et j'ai déjà des objectifs clairs:
 - Etre autonomes de A a Z.
 
 Au vu des publications, que j'espère régulière, et de mon niveau d'orthographe, si il y a des fautes, elles seront corrigées au file du temps, merci de pas en tenir compte !
+
+## [Première journée !!!](june/03.md)
