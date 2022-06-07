@@ -13,5 +13,6 @@ Ajout philosophique du 06: je laisserai peut être les fautes d'orthographe et m
 ## [Première journée !!!](june/03.md)
 ## [It's the story of a second day](june/04.md)  
 ## [It's the story of a fourth day (yes, not third)](june/06.md)  
+## [A first day of work](june/07.md)  
   
 [return](../README.md)
