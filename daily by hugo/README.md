@@ -10,9 +10,18 @@ Ce stage va durer 4 mois, et j'ai déjà des objectifs clairs:
 Au vu des publications, que j'espère régulière, et de mon niveau d'orthographe, s'il y a des fautes, elles seront corrigées aux files du temps, merci de pas en tenir compte !  
 Ajout philosophique du 06: je laisserai peut être les fautes d'orthographe et mauvaise formulation sur la version anglaise, afin de noter l'évolution de ma maitrise  
 
-## [Première journée !!!](june/03.md)
-## [It's the story of a second day](june/04.md)  
-## [It's the story of a fourth day (yes, not third)](june/06.md)  
-## [A first day of work](june/07.md)  
+# Juin
+>## [Première journée !!!](june/03.md)
+>## [It's the story of a second day](june/04.md)  
+>## [It's the story of a fourth day (yes, not third)](june/06.md)  
+>## [A first day of work](june/07.md)  
+>## [A *second* day of work](june/08.md)   
+# Juillet
+# Aout
+# Septembre
+
+
+# Section fond d'écran !
+<img src="../images/back.jpg" alt="big window of appartment" width="700">   
   
 [return](../README.md)
