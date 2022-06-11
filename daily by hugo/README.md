@@ -22,7 +22,7 @@ Ajout philosophique du 06: je laisserai peut être les fautes d'orthographe et m
 
 # Juillet
 # Août
-# Septembre
+# September
 
 # Section fond d'écran!
 <img src="../images/back.jpg" alt="big window of appartment" width="700">   
