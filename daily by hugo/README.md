@@ -16,14 +16,15 @@ Ajout philosophique du 06: je laisserai peut être les fautes d'orthographe et m
 >## [It's the story of a fourth day (yes, not third)](june/06.md)  
 >## [A first day of work](june/07.md)  
 >## [A *second* day of work](june/08.md)   
->## [oh no I fell asleep really early so I will write 2 days in one](june/09.md)   
+>## [oh no I fell asleep really early so I will write 2 days in one](june/09.md) 
+>## [Last day of long week (not sunday, friday please)](june/10.md)
+>## [Do not read this !](june/11.md)   
 
 # Juillet
-# Aout
+# Août
 # Septembre
 
-
-# Section fond d'écran !
+# Section fond d'écran!
 <img src="../images/back.jpg" alt="big window of appartment" width="700">   
   
 [return](../README.md)
