@@ -5,6 +5,6 @@
   Hello everyone, my name is Victoria and here, you'll be able to find my weekly report of the week events. 
   
   ## June
-  >## [1st contact with the company world](weekly by victoria/1st contact with the company world.md)
+  [1st contact with the company world](June/1st contact with the company world.md)
   
 [return](../README.md)
